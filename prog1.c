@@ -3,4 +3,6 @@ void main()
 {
 printf("come  to gitlab");
 scanf("%d")
+printf("bhimappa");
+
 }
